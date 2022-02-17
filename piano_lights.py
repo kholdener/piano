@@ -3,7 +3,6 @@ import queue
 # library for processing midi inputs
 from rtmidi import midiutil
 
-# TODO: rename this. adfkjasdklfjasdklfjakldfj
 class LightsFromPiano:
 
     def __init__(self):
